@@ -30,8 +30,9 @@ Workflow {
 			}
 		}
 		language = StandardLanguage {
-			name = "org.xtext.example.mydsl.MyDsl"
-			fileExtensions = "dsl"
+			name = "org.xtext.example.mydsl.MyDsl2"
+			referencedResource="platform:/resource/org.xtext.example.mydsl/src/org/xtext/example/mydsl/MyDsl.xtext"
+			fileExtensions = "dsl2"
 
 			serializer = {
 				generateStub = false
@@ -46,9 +47,8 @@ Workflow {
 			}
 		}
 		language = StandardLanguage {
-			name = "org.xtext.example.mydsl.MyDsl2"
-			referencedResource="platform:/resource/org.xtext.example.mydsl/src/org/xtext/example/mydsl/MyDsl.xtext"
-			fileExtensions = "dsl2"
+			name = "org.xtext.example.mydsl.MyDsl"
+			fileExtensions = "dsl"
 
 			serializer = {
 				generateStub = false
