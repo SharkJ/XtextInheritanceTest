@@ -1,0 +1,14 @@
+grammar org.xtext.example.mydsl.MyDsl with org.eclipse.xtext.common.Terminals
+
+generate myDsl "http://www.xtext.org/example/mydsl/MyDsl"
+
+
+MainModel:
+	seasons+=Season*;
+	
+Season:
+	"This_is" alt=List;
+
+List:
+	alt=('Spring' | 'Summer' | 'Autumn' | 'Winter')
+;

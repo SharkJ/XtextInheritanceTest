@@ -1,0 +1,10 @@
+grammar org.xtext.example.mydsl.MyDsl2 with org.eclipse.xtext.common.Terminals
+
+
+generate myDsl2 "http://www.xtext.org/example/mydsl/MyDsl2"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!' type=MyDsl2::List;

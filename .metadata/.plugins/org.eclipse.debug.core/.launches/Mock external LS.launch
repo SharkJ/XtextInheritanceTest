@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<booleanAttribute key="org.eclipse.debug.core.capture_output" value="true"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_LAUNCH_IN_BACKGROUND" value="true"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_BUILDER_ENABLED" value="false"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LAUNCH_CONFIGURATION_BUILD_SCOPE" value="${none}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="C:\Program Files\Java\jre1.8.0_191\bin\java.exe"/>
+<booleanAttribute key="org.eclipse.ui.externaltools.ATTR_SHOW_CONSOLE" value="false"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-cp C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.lsp4j.jsonrpc_0.6.0.v20180905-0712.jar;C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.lsp4j_0.6.0.v20180905-0712.jar;C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\com.google.guava_21.0.0.v20170206-1425.jar;C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.xtext.xbase.lib_2.15.0.v20180916-1130.jar;C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.lsp4e.tests.mock_0.7.0.201808221601.jar;C:\Users\shjslk\eclipse\dsl-2018-09\eclipse\..\..\..\.p2\pool\plugins\com.google.gson_2.7.0.v20170129-0911.jar org.eclipse.lsp4e.tests.mock.MockLanguageSever"/>
+</launchConfiguration>

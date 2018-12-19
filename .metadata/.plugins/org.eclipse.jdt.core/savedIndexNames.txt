@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+D:\XtextConversion_DONOTDELETE\InheritanceTest\.metadata\.plugins\org.eclipse.jdt.core
+789510714.index
+1051762806.index
+1866060512.index
+191618181.index
+4259030034.index
+1541907181.index
+522497626.index
+4181473314.index
+1130653848.index
+3766489083.index
+1838783545.index
+331986423.index
+2524728597.index
+237959993.index
+2290778384.index
+1335703696.index
+1885250822.index
